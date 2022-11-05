@@ -1,0 +1,6 @@
+{
+"MONGO_URI":"mongodb://localhost:27017/retryWrites=true&writeConcern=majority",
+"MONGO_PORT":27017,
+"MONGO_DB_NAME":"app_database",
+"SECRET_KEY":"b'fRAIuYhm-Amq3ta14-kY1Ut4ZA3qBupiu47wKCHqHbI='"
+}
